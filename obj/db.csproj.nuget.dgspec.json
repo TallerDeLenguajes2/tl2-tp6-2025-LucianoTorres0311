@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Taller\\repos\\2025\\db\\db.csproj": {}
+    "C:\\Users\\ADMIN\\Desktop\\tl2-tp6-2025-LucianoTorres0311\\db.csproj": {}
   },
   "projects": {
-    "D:\\Taller\\repos\\2025\\db\\db.csproj": {
+    "C:\\Users\\ADMIN\\Desktop\\tl2-tp6-2025-LucianoTorres0311\\db.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Taller\\repos\\2025\\db\\db.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\tl2-tp6-2025-LucianoTorres0311\\db.csproj",
         "projectName": "db",
-        "projectPath": "D:\\Taller\\repos\\2025\\db\\db.csproj",
-        "packagesPath": "C:\\Users\\queco\\.nuget\\packages\\",
-        "outputPath": "D:\\Taller\\repos\\2025\\db\\obj\\",
+        "projectPath": "C:\\Users\\ADMIN\\Desktop\\tl2-tp6-2025-LucianoTorres0311\\db.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Desktop\\tl2-tp6-2025-LucianoTorres0311\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\queco\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -40,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -67,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
